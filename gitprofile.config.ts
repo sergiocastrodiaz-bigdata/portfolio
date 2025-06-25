@@ -29,16 +29,16 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'Mis Proyectos',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Panader-IA',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Proyecto realizado en conjunto con el equipo de panaderia del IES Gran Capitán en Córdoba - España, el proyecto usa OpenCV para calcular el tamaño ideal de fermentación del pan (actualmente solo los circulares). El montaje se ha realizado con una Raspberry PI conectada a dicha fermentadora.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://i.ibb.co/84cJWSF0/FONDOPAN.png',
+          link: 'https://github.com/Dansarasix-DML/panader-ia',
         },
         {
           title: 'Project Name',
