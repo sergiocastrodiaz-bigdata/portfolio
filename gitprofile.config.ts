@@ -1,4 +1,4 @@
-// gitprofile.config.ts
+ // gitprofile.config.ts
 
 const CONFIG = {
   github: {
@@ -13,7 +13,7 @@ const CONFIG = {
   projects: {
     github: {
       display: true, // Display GitHub projects?
-      header: 'Proyectos',
+      header: 'Proyectos en mis Repositorios',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
@@ -29,7 +29,7 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'Mis Proyectos',
+      header: 'Proyectos Generales',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
